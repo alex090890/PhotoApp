@@ -12,6 +12,16 @@ const images = [
   {
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/800px-The_Earth_seen_from_Apollo_17.jpg",
   },
+  {src: "https://upload.wikimedia.org/wikipedia/commons/b/be/Top_of_Atmosphere.jpg"},
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ocean_from_Leblon.jpg/1024px-Ocean_from_Leblon.jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lake_mapourika_NZ.jpeg/1024px-Lake_mapourika_NZ.jpeg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mill_Pond_Sunset.jpg/1024px-Mill_Pond_Sunset.jpg"
+  }
 ];
 
 const imageList = document.getElementById("imageList");
